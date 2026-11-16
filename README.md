@@ -13,13 +13,6 @@ Green AI na UFRJ Analytica: medição de energia e otimização de modelos de IA
 | Pasta | Conteúdo |
 |---|---|
 | `tarefas/` | Uma pasta por tarefa|
-
- 
-## Membros
- 
-| Nome | GitHub |
-|---|---|
-| Luiz (Líder) | [@luizpcsilva](https://github.com/luizpcsilva) |
  
 ## Contribuindo
  
